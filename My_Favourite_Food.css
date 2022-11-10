@@ -1,0 +1,33 @@
+.pizzaBeef wet fry {
+    background-color: red;
+    width: fit-content;
+    padding: 30px;
+    font-size: 20px;  
+}
+.favorite {
+    background-color: RGB(91, 94, 166)
+}
+.favorite h1 {
+    background-color: black;
+    width: auto;
+    text-align: center;
+}
+.favorite p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center
+}
+textarea {
+    padding: 1%;
+    border: 1px solid whitesmoke;
+    border-radius: 55px;
+    font-weight: 400;
+    font-size: large;
+}
+dt {
+    color: red;
+}
+h4 {
+    font-size: large;
+    color: bisque;
+}
